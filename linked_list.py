@@ -55,6 +55,7 @@ class LinkedList():
             return
         if self.head.next_node is None and self.head.value == value:
             self.head.value = None
+            self.head = None
             print("Head was the only node, node has been deleted")
             return
         if self.head.value == value:
