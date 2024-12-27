@@ -5,8 +5,8 @@ This repsitory contains the following algorithms along with tests using `SOME_TE
  - A Linked List
  - A Binary Tree
  - A Graph using an Adjacency List
- - Depth First Search using recursion
- - Breadth First Search using a while loop
+ - Depth First Search using recursion (inside the Binary Tree implementation)
+ - Breadth First Search using a while loop (inside the Binary Tree implementation)
 
 ## Setup
 
