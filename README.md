@@ -1,6 +1,6 @@
 # Algorithms
 
-This repsitory contains the following algorithms along with tests using `SOME_TEST_LIBRARY`:
+This repsitory contains the following algorithms coded in Python:
 
  - A Linked List
  - A Binary Tree
@@ -13,6 +13,12 @@ This repsitory contains the following algorithms along with tests using `SOME_TE
     conda create -p ./.conda python=3.10 -y
     conda activate ./.conda
     pip install -r requirements.txt
+
+## Run
+
+Each python script runs a series of tests, printing the current test and the results.
+
+    python <file.py>
 
 ## DFS and BFS
 
